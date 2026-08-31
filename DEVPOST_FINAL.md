@@ -121,4 +121,4 @@ The larger vision is a coordination layer for real-world support networks: famil
 
 - Live app: https://village-family.jp-hickey.chatgpt.site
 - Source repository: https://github.com/Village-Family/village-webmcp-challenge
-- Demo video: _add the final public or unlisted YouTube URL_
+- Demo video: https://youtu.be/9buvO8rkBys
